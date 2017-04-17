@@ -1,0 +1,10 @@
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\bin\Debug\dnd35.exe.config
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\bin\Debug\dnd35.exe
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\bin\Debug\dnd35.pdb
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.Properties.Resources.resources
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.csproj.GenerateResource.Cache
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.exe
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.pdb
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.Main_Window.resources
+c:\users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.Output.resources
+C:\Users\ashar\documents\visual studio 2015\Projects\dnd35\dnd35\obj\Debug\dnd35.csprojResolveAssemblyReference.cache
